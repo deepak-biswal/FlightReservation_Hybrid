@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22038" started-at="2018-12-31T16:25:23Z" finished-at="2018-12-31T16:25:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22038" started-at="2018-12-31T16:25:23Z" finished-at="2018-12-31T16:25:45Z">
+      <class name="testcases.ExcuteTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="setUp" is-config="true" duration-ms="3438" started-at="2018-12-31T16:25:23Z" finished-at="2018-12-31T16:25:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchFlightReservationApplication()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="launchFlightReservationApplication" duration-ms="4633" started-at="2018-12-31T16:25:27Z" finished-at="2018-12-31T16:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFlightReservationApplication -->
+        <test-method status="PASS" signature="verifyLinks()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="verifyLinks" duration-ms="734" started-at="2018-12-31T16:25:31Z" depends-on-methods="testcases.ExcuteTest.launchFlightReservationApplication" finished-at="2018-12-31T16:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+        <test-method status="PASS" signature="verifyWebTable()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="verifyWebTable" duration-ms="886" started-at="2018-12-31T16:25:32Z" depends-on-methods="testcases.ExcuteTest.verifyLinks" finished-at="2018-12-31T16:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebTable -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="login" duration-ms="5856" started-at="2018-12-31T16:25:33Z" depends-on-methods="testcases.ExcuteTest.verifyWebTable" finished-at="2018-12-31T16:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="reserveAFlight()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="reserveAFlight" duration-ms="3808" started-at="2018-12-31T16:25:39Z" depends-on-methods="testcases.ExcuteTest.login" finished-at="2018-12-31T16:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reserveAFlight -->
+        <test-method status="PASS" signature="bookATicket()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="bookATicket" duration-ms="1976" started-at="2018-12-31T16:25:43Z" depends-on-methods="testcases.ExcuteTest.reserveAFlight" finished-at="2018-12-31T16:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookATicket -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:testcases.ExcuteTest@3c5a99da]" name="closeDriver" is-config="true" duration-ms="688" started-at="2018-12-31T16:25:45Z" finished-at="2018-12-31T16:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- testcases.ExcuteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

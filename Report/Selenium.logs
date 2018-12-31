@@ -1,0 +1,37 @@
+21:55:27,347  INFO flightReservation<strong>{1}</strong>:? - Invoking Application Under Test : http://newtours.demoaut.com
+21:55:31,732  INFO flightReservation<strong>{1}</strong>:? - Invoked Application Under Test : http://newtours.demoaut.com
+21:55:31,743  INFO flightReservation<strong>{1}</strong>:? - Verifying Page Title : Welcome: Mercury Tours
+21:55:31,749  INFO flightReservation<strong>{1}</strong>:? - Verified Page Title : Welcome: Mercury Tours
+21:55:33,383  INFO flightReservation<strong>{1}</strong>:? - Entering 'mercury' in the 'UserName' edit field
+21:55:33,476  INFO flightReservation<strong>{1}</strong>:? - Entered 'mercury' in the 'UserName' edit field
+21:55:33,489  INFO flightReservation<strong>{1}</strong>:? - Entering 'mercury' in the 'Password' edit field
+21:55:33,570  INFO flightReservation<strong>{1}</strong>:? - Entered 'mercury' in the 'Password' edit field
+21:55:33,570  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'Sign-In'
+21:55:39,202  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'Sign-In'
+21:55:39,216  INFO flightReservation<strong>{1}</strong>:? - Verifying Page Title : Find a Flight: Mercury Tours:
+21:55:39,231  INFO flightReservation<strong>{1}</strong>:? - Verified Page Title : Find a Flight: Mercury Tours:
+21:55:39,232  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'Oneway'
+21:55:39,308  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'Oneway'
+21:55:39,312  INFO flightReservation<strong>{1}</strong>:? - Selecting 'Frankfurt' from the 'DepartureFrom' drop down
+21:55:39,428  INFO flightReservation<strong>{1}</strong>:? - Selected 'Frankfurt' from the 'DepartureFrom' drop down
+21:55:39,435  INFO flightReservation<strong>{1}</strong>:? - Selecting 'Paris' from the 'ArrivalTo' drop down
+21:55:39,530  INFO flightReservation<strong>{1}</strong>:? - Selected 'Paris' from the 'ArrivalTo' drop down
+21:55:39,530  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'First'
+21:55:39,599  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'First'
+21:55:39,602  INFO flightReservation<strong>{1}</strong>:? - Selecting 'Unified Airlines' from the 'AirlinePreference' drop down
+21:55:39,703  INFO flightReservation<strong>{1}</strong>:? - Selected 'Unified Airlines' from the 'AirlinePreference' drop down
+21:55:39,703  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'CONTINUE1'
+21:55:40,817  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'CONTINUE1'
+21:55:40,817  INFO flightReservation<strong>{1}</strong>:? - Verifying the presence of 'CONTINUE2' on web page
+21:55:40,874  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'CONTINUE2'
+21:55:43,040  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'CONTINUE2'
+21:55:43,053  INFO flightReservation<strong>{1}</strong>:? - Entering 'Rajendra' in the 'FirstName' edit field
+21:55:43,190  INFO flightReservation<strong>{1}</strong>:? - Entered 'Rajendra' in the 'FirstName' edit field
+21:55:43,192  INFO flightReservation<strong>{1}</strong>:? - Entering 'Mahapatra' in the 'LastName' edit field
+21:55:43,317  INFO flightReservation<strong>{1}</strong>:? - Entered 'Mahapatra' in the 'LastName' edit field
+21:55:43,319  INFO flightReservation<strong>{1}</strong>:? - Entering '3487563475685' in the 'CreditCard' edit field
+21:55:43,486  INFO flightReservation<strong>{1}</strong>:? - Entered '3487563475685' in the 'CreditCard' edit field
+21:55:43,486  INFO flightReservation<strong>{1}</strong>:? - Clicking on 'SECUREPURCHASE'
+21:55:44,965  INFO flightReservation<strong>{1}</strong>:? - Clicked on 'SECUREPURCHASE'
+21:55:45,012  INFO flightReservation<strong>{1}</strong>:? - Verifying Page Title : Flight Confirmation: Mercury Tours
+21:55:45,018  INFO flightReservation<strong>{1}</strong>:? - Verified Page Title : Flight Confirmation: Mercury Tours
