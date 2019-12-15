@@ -1,37 +1,37 @@
-02/01/2019 20:36:39 flightReservation Invoking Application Under Test : http://newtours.demoaut.com
-02/01/2019 20:36:42 flightReservation Invoked Application Under Test : http://newtours.demoaut.com
-02/01/2019 20:36:42 flightReservation Verifying Page Title : Welcome: Mercury Tours
-02/01/2019 20:36:43 flightReservation Verified Page Title : Welcome: Mercury Tours
-02/01/2019 20:36:44 flightReservation Entering 'mercury' in the 'UserName' edit field
-02/01/2019 20:36:44 flightReservation Entered 'mercury' in the 'UserName' edit field
-02/01/2019 20:36:44 flightReservation Entering 'mercury' in the 'Password' edit field
-02/01/2019 20:36:44 flightReservation Entered 'mercury' in the 'Password' edit field
-02/01/2019 20:36:44 flightReservation Clicking on 'Sign-In'
-02/01/2019 20:36:51 flightReservation Clicked on 'Sign-In'
-02/01/2019 20:36:51 flightReservation Verifying Page Title : Find a Flight: Mercury Tours:
-02/01/2019 20:36:51 flightReservation Verified Page Title : Find a Flight: Mercury Tours:
-02/01/2019 20:36:51 flightReservation Clicking on 'Oneway'
-02/01/2019 20:36:51 flightReservation Clicked on 'Oneway'
-02/01/2019 20:36:51 flightReservation Selecting 'Frankfurt' from the 'DepartureFrom' drop down
-02/01/2019 20:36:51 flightReservation Selected 'Frankfurt' from the 'DepartureFrom' drop down
-02/01/2019 20:36:51 flightReservation Selecting 'Paris' from the 'ArrivalTo' drop down
-02/01/2019 20:36:51 flightReservation Selected 'Paris' from the 'ArrivalTo' drop down
-02/01/2019 20:36:51 flightReservation Clicking on 'First'
-02/01/2019 20:36:51 flightReservation Clicked on 'First'
-02/01/2019 20:36:51 flightReservation Selecting 'Unified Airlines' from the 'AirlinePreference' drop down
-02/01/2019 20:36:51 flightReservation Selected 'Unified Airlines' from the 'AirlinePreference' drop down
-02/01/2019 20:36:51 flightReservation Clicking on 'CONTINUE1'
-02/01/2019 20:36:52 flightReservation Clicked on 'CONTINUE1'
-02/01/2019 20:36:52 flightReservation Verifying the presence of 'CONTINUE2' on web page
-02/01/2019 20:36:52 flightReservation Clicking on 'CONTINUE2'
-02/01/2019 20:36:54 flightReservation Clicked on 'CONTINUE2'
-02/01/2019 20:36:54 flightReservation Entering 'Rajendra' in the 'FirstName' edit field
-02/01/2019 20:36:54 flightReservation Entered 'Rajendra' in the 'FirstName' edit field
-02/01/2019 20:36:54 flightReservation Entering 'Mahapatra' in the 'LastName' edit field
-02/01/2019 20:36:54 flightReservation Entered 'Mahapatra' in the 'LastName' edit field
-02/01/2019 20:36:54 flightReservation Entering '3487563475685' in the 'CreditCard' edit field
-02/01/2019 20:36:54 flightReservation Entered '3487563475685' in the 'CreditCard' edit field
-02/01/2019 20:36:54 flightReservation Clicking on 'SECUREPURCHASE'
-02/01/2019 20:36:56 flightReservation Clicked on 'SECUREPURCHASE'
-02/01/2019 20:36:56 flightReservation Verifying Page Title : Flight Confirmation: Mercury Tours
-02/01/2019 20:36:56 flightReservation Verified Page Title : Flight Confirmation: Mercury Tours
+20/01/2019 11:11:16 flightReservation Invoking Application Under Test : http://newtours.demoaut.com
+20/01/2019 11:11:20 flightReservation Invoked Application Under Test : http://newtours.demoaut.com
+20/01/2019 11:11:20 flightReservation Verifying Page Title : Welcome: Mercury Tours
+20/01/2019 11:11:20 flightReservation Verified Page Title : Welcome: Mercury Tours
+20/01/2019 11:11:22 flightReservation Entering 'mercury' in the 'UserName' edit field
+20/01/2019 11:11:22 flightReservation Entered 'mercury' in the 'UserName' edit field
+20/01/2019 11:11:22 flightReservation Entering 'mercury' in the 'Password' edit field
+20/01/2019 11:11:22 flightReservation Entered 'mercury' in the 'Password' edit field
+20/01/2019 11:11:22 flightReservation Clicking on 'Sign-In'
+20/01/2019 11:11:28 flightReservation Clicked on 'Sign-In'
+20/01/2019 11:11:28 flightReservation Verifying Page Title : Find a Flight: Mercury Tours:
+20/01/2019 11:11:28 flightReservation Verified Page Title : Find a Flight: Mercury Tours:
+20/01/2019 11:11:28 flightReservation Clicking on 'Oneway'
+20/01/2019 11:11:28 flightReservation Clicked on 'Oneway'
+20/01/2019 11:11:28 flightReservation Selecting 'Frankfurt' from the 'DepartureFrom' drop down
+20/01/2019 11:11:28 flightReservation Selected 'Frankfurt' from the 'DepartureFrom' drop down
+20/01/2019 11:11:28 flightReservation Selecting 'Paris' from the 'ArrivalTo' drop down
+20/01/2019 11:11:28 flightReservation Selected 'Paris' from the 'ArrivalTo' drop down
+20/01/2019 11:11:28 flightReservation Clicking on 'First'
+20/01/2019 11:11:28 flightReservation Clicked on 'First'
+20/01/2019 11:11:28 flightReservation Selecting 'Unified Airlines' from the 'AirlinePreference' drop down
+20/01/2019 11:11:28 flightReservation Selected 'Unified Airlines' from the 'AirlinePreference' drop down
+20/01/2019 11:11:28 flightReservation Clicking on 'CONTINUE1'
+20/01/2019 11:11:29 flightReservation Clicked on 'CONTINUE1'
+20/01/2019 11:11:29 flightReservation Verifying the presence of 'CONTINUE2' on web page
+20/01/2019 11:11:29 flightReservation Clicking on 'CONTINUE2'
+20/01/2019 11:11:31 flightReservation Clicked on 'CONTINUE2'
+20/01/2019 11:11:31 flightReservation Entering 'Rajendra' in the 'FirstName' edit field
+20/01/2019 11:11:31 flightReservation Entered 'Rajendra' in the 'FirstName' edit field
+20/01/2019 11:11:31 flightReservation Entering 'Mahapatra' in the 'LastName' edit field
+20/01/2019 11:11:31 flightReservation Entered 'Mahapatra' in the 'LastName' edit field
+20/01/2019 11:11:31 flightReservation Entering '3487563475685' in the 'CreditCard' edit field
+20/01/2019 11:11:31 flightReservation Entered '3487563475685' in the 'CreditCard' edit field
+20/01/2019 11:11:31 flightReservation Clicking on 'SECUREPURCHASE'
+20/01/2019 11:11:32 flightReservation Clicked on 'SECUREPURCHASE'
+20/01/2019 11:11:32 flightReservation Verifying Page Title : Flight Confirmation: Mercury Tours
+20/01/2019 11:11:32 flightReservation Verified Page Title : Flight Confirmation: Mercury Tours
